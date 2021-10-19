@@ -25,9 +25,10 @@ Want to learn hacky Python? In this workshop, you'll learn just enough to Google
     * try/except
     * Functions
     * Running a program
-
-
-
+* Networking
+    * Requests
+    * Proxying
+* Multithreading
 
 
 
